@@ -10,4 +10,6 @@ Try out some of the provided mazes to see the algorithm do its thing!
 Enjoy!
 
 Author: Aiden Nelson and David Collins
+
+
 Date of Last Edit: March 18, 2022
