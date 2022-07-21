@@ -77,7 +77,7 @@ public class MazeLoader {
         System.out.println(chosenFile);
         try {
           if(chosenFile == null)
-          fileToRead = new Scanner(new File("mazeA.txt"));
+          fileToRead = new Scanner(new File("maze.txt"));
           else
               fileToRead = new Scanner(chosenFile);
           ROW = fileToRead.nextInt();
