@@ -3,15 +3,16 @@ Takes a built maze file and can find the best path through the maze, using a rec
 
 Select anywhere in the maze (as long as it is not a blue wall) to start the pathfinding, and watch as the algorithm recursively traces its steps through the maze.
 
-![image](https://user-images.githubusercontent.com/104726926/180318818-edca4e51-48a9-489f-95b5-1ccf540cde88.png)
-
-Set to a timer delay, the actual path is solved nearly instantly with the help of some of Java's inbuilt data strutures, like Linked Lists / Array Lists to keep track of consecutive actions by the algorithm.
-
-You have the ability to re-load the maze, or to generate an entirely new maze from a different provided file.
 
 ![image](https://user-images.githubusercontent.com/104726926/180319066-06d7f388-3992-464f-9661-bf837c30cdaa.png)
 
 The above is the new default maze for startup, and it is really quite impressive. 
+
+Set to a timer delay, the actual path is solved nearly instantly with the help of some of Java's inbuilt data strutures, like Linked Lists / Array Lists to keep track of consecutive actions by the algorithm.
+
+You have the ability to re-load the maze, or to generate an entirely new maze from a different provided file, such as the one pictured below: 
+
+![image](https://user-images.githubusercontent.com/104726926/180318818-edca4e51-48a9-489f-95b5-1ccf540cde88.png)
 
 Here is an example of the algorithm trying to find its way through the maze: 
 
