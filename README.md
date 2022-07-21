@@ -19,6 +19,8 @@ Here is an example of the algorithm trying to find its way through the maze:
 
 The green path is where it has found to go, and the red is where the algorithm has tried to go, and has either failed or been impossible to continue from.
 
+A responsive GUI will pop up once the algorithm has found the exit!
+
 Try out some of the provided mazes to see the algorithm do its thing!
 
 Enjoy!
